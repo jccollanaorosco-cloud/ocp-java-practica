@@ -1,0 +1,10 @@
+# Compilados de Java
+bin/
+*.class
+
+# Config local de VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
