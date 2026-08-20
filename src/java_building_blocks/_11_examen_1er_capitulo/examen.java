@@ -122,7 +122,7 @@ package java_building_blocks._11_examen_1er_capitulo;
 //    D. import aquarium.*;      import aquarium.jellies.*;
 //    E. import aquarium.Water;  import aquarium.jellies.Water;
 //    F. Ninguno.
-// RESPUESTA: B, C, A
+// RESPUESTA: B, C
 // 
 // --------------------------------------------------------------------------
  
@@ -204,7 +204,7 @@ package java_building_blocks._11_examen_1er_capitulo;
 //    E. int defaults to 0.0.
 //    F. int defaults to null.
 //    G. Ninguno.
-// RESPUESTA: A, D, E
+// RESPUESTA: A, D
 //   
 // --------------------------------------------------------------------------
  
@@ -348,7 +348,7 @@ package java_building_blocks._11_examen_1er_capitulo;
 //    D. Java es un lenguaje procedural.
 //    E. Java es un lenguaje orientado a objetos.
 //    F. Java es un lenguaje de programacion funcional.
-// RESPUESTA: B, E, A
+// RESPUESTA: B, E
 //
 // --------------------------------------------------------------------------
  
