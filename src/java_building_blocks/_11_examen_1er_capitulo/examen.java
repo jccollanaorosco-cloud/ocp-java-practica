@@ -2,7 +2,7 @@ package java_building_blocks._11_examen_1er_capitulo;
  
 // ==========================================================================
 //                  EXAMEN CAPITULO 1 - Java Building Blocks
-//           Preguntas completas, opciones, respuesta y fundamento
+//     
 // ==========================================================================
  
 // --------------------------------------------------------------------------
